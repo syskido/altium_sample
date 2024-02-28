@@ -1,0 +1,11 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of PCB Document [SAMPLE.PcbDoc]
+   Generated File[SAMPLE.EXTREP]
+   Generated File[SAMPLE.REP]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At ¿ÀÈÄ 10:10:37 On 2024-02-28

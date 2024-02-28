@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\SAMPLE\Project Outputs for Free Documents\Pick Place\Pick Place for SAMPLE.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       28-02-24
+Time:       22:10
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U1","BC548B","TopLayer","TO127P254X732-3","3825.000","4215.000","270","Transistor bipolar _BJT_ NPN 30V 100mA 300MHz 625mW Agujero pasante TO-92-3"
+"U2","BC548B","TopLayer","TO127P254X732-3","4705.000","4415.000","90","Transistor bipolar _BJT_ NPN 30V 100mA 300MHz 625mW Agujero pasante TO-92-3"
+"R2","ERA3AEB301V","TopLayer","RES_ERA3AEB301V","4401.457","3300.000","180",""
+"R1","ERA3AEB301V","TopLayer","RES_ERA3AEB301V","4080.000","3310.000","180",""
+"R3","ERA3AEB301V","TopLayer","RES_ERA3AEB301V","4080.000","3960.000","90",""
+"R4","ERA3AEB301V","TopLayer","RES_ERA3AEB301V","4465.000","3665.000","180",""
+"J1","22-28-4033","TopLayer","1X03-PIN","5305.000","3815.000","90","Connector Header Through Hole 3 position 0.100 (2.54mm)"
+"J2","22-28-4033","TopLayer","1X03-PIN","3225.000","3825.000","270","Connector Header Through Hole 3 position 0.100 (2.54mm)"
+"C1","GRM31CR60J227ME11L","TopLayer","CAPC3216X190N","4360.000","4004.055","90","SMD Multilayer Ceramic Capacitor, GRM Series, 220 F, 20%, X5R, 6.3 V, 1206 [3216 Metric]"
+"C2","GRM31CR60J227ME11L","TopLayer","CAPC3216X190N","4950.000","3890.000","90","SMD Multilayer Ceramic Capacitor, GRM Series, 220 F, 20%, X5R, 6.3 V, 1206 [3216 Metric]"
+"C3","ECA1HM470","TopLayer","CAPPRD250W50D630H1120","3660.000","3504.213","90","47A•ÏF 50V Aluminum Electrolytic Capacitors Radial, Can 2000 Hrs @ 85A°∆C"
